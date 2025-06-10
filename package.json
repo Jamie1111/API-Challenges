@@ -1,0 +1,23 @@
+{
+  "name": "countryapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamie1111/API-Challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jamie1111/API-Challenges/issues"
+  },
+  "homepage": "https://github.com/Jamie1111/API-Challenges#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
